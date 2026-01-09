@@ -20,25 +20,26 @@ Previous projects:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enricdelgado-ta&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="165"
-       src="https://streak-stats.demolab.com?user=enricdelgado-ta&theme=dark&hide_border=true" />
+  <img src="./metrics/isocalendar.svg" />
 </p>
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enricdelgado-ta&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <img src="./metrics/stats.svg" />
 </p>
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=enricdelgado-ta&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="./metrics/languages.svg" />
+</p>
 
-<!-- ⚠️ This one is the most common source of "Invalid upstream response (401)" -->
-### 🔝 Top Contributed Repo
-![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=enricdelgado-ta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🏆 Trophies
+<p align="center">
+  <img src="./metrics/trophies.svg" />
+</p>
 
-
+## 🔥 Contributions
+<p align="center">
+  <img src="./metrics/contributions.svg" />
+</p>
