@@ -37,7 +37,8 @@ Previous projects:
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=enricdelgado-ta&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<!-- Optional: this provider is often the source of "fetch error" -->
+<!-- ⚠️ This one is the most common source of "Invalid upstream response (401)" -->
 ### 🔝 Top Contributed Repo
 ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=enricdelgado-ta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
