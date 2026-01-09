@@ -7,7 +7,6 @@ Previous projects:
   - Drop Merge (hiatus)
   - Hexa Swap (cancelled)
    
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white&logo=gmail)](mailto:enric.delgado@tripledotstudios.com)
 [![website](https://img.shields.io/badge/Website-32018a?style=for-the-badge&labelColor=736ec3&logo=ghost)](https://www.enrictech.art)
@@ -39,16 +38,6 @@ Previous projects:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=enricdelgado-ta&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Optional: this provider is often the source of "fetch error" -->
-<!-- ### 🔝 Top Contributed Repo -->
-<!-- ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=enricdelgado-ta&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=enricdelgado-ta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=enricdelgado-ta&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=enricdelgado-ta&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Updated with stable stat providers and cache settings -->
